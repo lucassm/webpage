@@ -1,0 +1,48 @@
+title: Hello Website
+---
+pub_date: 2017-03-01
+---
+summary:
+
+Welcome to Lektor, the static content management system that introduces a
+new paradigm for developing beautiful websites.
+---
+author: Lucas
+---
+
+
+body:
+
+This is an example blog post.  Not much here but that's not the point :)
+
+```python
+import numpy as np
+print np.sin(0.45)
+
+def main():
+    print 'Another thing'
+```
+
+```python
+>>> from markupsafe import soft_unicode
+>>> soft_unicode(42)
+u'42'
+>>> soft_unicode(Markup('foo'))
+Markup(u'foo')
+```
+
+
+
+This is only for complete the page
+
+This is only for complete the page
+
+This is only for complete the page
+
+This is only for complete the page
+
+This is only for complete the page
+
+This is only for complete the page
+
+This is only for complete the page

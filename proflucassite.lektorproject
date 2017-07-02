@@ -1,0 +1,11 @@
+[project]
+name = proflucassite
+
+[packages]
+lektor-markdown-highlighter = 0.1
+
+[servers.ghpages]
+name = production
+enabled = yes
+default = yes
+target = ghpages://lucassm/webpage
