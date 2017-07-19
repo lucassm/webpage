@@ -1,5 +1,6 @@
 [project]
 name = proflucassite
+url = https://lucassm.github.io/webpage
 
 [packages]
 lektor-markdown-highlighter = 0.1
@@ -8,4 +9,4 @@ lektor-markdown-highlighter = 0.1
 name = production
 enabled = yes
 default = yes
-target = ghpages://lucassm/webpage
+target = ghpages+https://lucassm/webpage
